@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(135deg, #f3d1dc, #e8b7c8, #d8a1b5);
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  font-weight: bold;
+  color: #5a2a3b;
+}
+
+.navbar {
+  background-color: #5a2a3b !important;
+}
+
+footer {
+  background-color: #5a2a3b;
+}
