@@ -23,4 +23,4 @@ Este proyecto corresponde al desarrollo de un e-commerce frontend enfocado en la
 2. Abrir `index.html` en el navegador
 
 ## 🔗 Repositorio
-(agrega aquí tu link de GitHub)
+(https://github.com/ghgutierrez1981-blip/ecommerce-frontend-m2)
